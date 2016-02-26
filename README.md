@@ -2,7 +2,7 @@
 
 An example of how to setup OpenSSH within images.
 
-You may try to checkout my [Dockerfile](Dockerfile). 
+You may try to checkout my [Dockerfile](https://github.com/kar-fai/openssh-docker/blob/master/Dockerfile). 
 
 ### Simple Features
 
